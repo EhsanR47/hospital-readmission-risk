@@ -1,0 +1,8 @@
+{
+  "base_rate":0.1135,
+  "roc_auc":0.6718,
+  "pr_auc":0.2223,
+  "brier_uncalibrated":0.0955,
+  "brier_calibrated":0.0955,
+  "brier_always_predict_base_rate":0.1006
+}

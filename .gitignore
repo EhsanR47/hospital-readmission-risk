@@ -1,0 +1,13 @@
+# Data and trained models (recreated by the scripts)
+data/raw/*
+!data/raw/.gitkeep
+models/*
+!models/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
